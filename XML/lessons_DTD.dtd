@@ -1,0 +1,8 @@
+<?xml version = "1.0" encoding ="utf-8"?>
+	<!DOCTYPE TimeTable [
+		<!ELEMENT TimeTable (item+)>
+		<!ELEMENT item (name, teacher, begin, end, description)> 
+		<!ELEMENT name (#PCDATA)> 
+		<!ELEMENT teacher (#PCDATA)> 
+		<!ELEMENT begin (#PCDATA)> 
+]>

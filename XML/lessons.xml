@@ -1,0 +1,10 @@
+<?xml version = "1.0" encoding ="utf-8"?>
+<!DOCTYPE TimeTable SYSTEM "lessons_DTD.dtd">
+<TimeTable>
+	<item>
+		<name>HTML-XML</name>
+		<teacher>Konstantin Kouzmin</teacher>
+		<begin>2022-03-02</begin>
+	</item>
+</TimeTable>
+

@@ -1,0 +1,11 @@
+<?xml version = "1.0" encoding ="utf-8"?>
+	<myns:TimeTable xmlns:myns = "http:///www.itmo.ru/xml/lessons">
+		<myns:item>
+			<myns:name>HTML-XML</myns:name>
+			<myns:teacher>Konstantin Kouzmin</myns:teacher>
+			<myns:begin>2022-03-02</myns:begin>
+			<myns:resources>"https://ru.wikipedia.org/wiki/XML"</myns:resources>
+		</myns:item>	
+	</myns:TimeTable>
+	
+	
